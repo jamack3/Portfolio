@@ -1,0 +1,57 @@
+body {
+font-family: 'Bree Serif', serif;
+  margin: 2em;
+  font-color: #ffffff;
+   background:#585B22;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-style: italic;
+  color: #ffffff;
+  text-align: center;
+}
+
+h2 {
+	font-color: #ffffff;
+  text-align: center;
+}
+
+h3 {
+	font-color: #ffffff;
+  text-align: left;
+}
+
+h4 {
+	font-color: #ffffff;
+  text-align: right;
+  font-size: 200;
+}
+
+ol {
+  text-align: center, left;
+}
+
+ul {
+  text-align: center;
+}
+
+div {
+  position: center;
+}
+
+.topnav {
+  background-color: #ab9e54;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
